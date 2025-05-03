@@ -22,13 +22,13 @@ AddEventHandler("weapons:giveWeapon", function(weapon, label)
     if success then
         TriggerClientEvent('ox_lib:notify', src, {
             title = 'Weapon Menu',
-            description = 'You received : ' .. label,
+            description = 'You received: ' .. label,
             type = 'success'
         })
     else
         TriggerClientEvent('ox_lib:notify', src, {
             title = 'Weapon Menu',
-            description = 'Impossible to receive the weapon ' .. weapon,
+            description = 'Impossible to receive the weapon: ' .. label,
             type = 'error'
         })
     end
