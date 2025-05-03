@@ -1,6 +1,6 @@
 
 # **rWeaponTablet**
-> A customizable and lightweight NUI weapon tablet for FiveM
+> A lightweight, customizable NUI weapons tablet for FiveM server staffs
 
 **Preview**: [YouTube Demo](https://www.youtube.com/watch?v=6GjJmVp1l1o)  
 **Version**: v1.0.0  
