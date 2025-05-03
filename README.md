@@ -12,6 +12,7 @@
 - **Performance**: Runs at **0.00 ms** (Client Resmon)
 - **Fully customizable UI** (HTML / Tailwind CSS / JS)
 - **Permission System**: Compatible with **ACE Perms**
+- **Search**: Search for all the weapons you have listed.
 
 ---
 
@@ -24,9 +25,15 @@
 
 ---
 
-### **Config.lua Preview**
+### **Config Preview**
 
 ![Config Example](https://cdn.discordapp.com/attachments/1276361453049483347/1368343403091197962/image.png?ex=6817e099&is=68168f19&hm=9316610316953970d019f695b72e60802062a73eaba17b18437bf41322cddecd&)
+
+---
+
+### **IG Preview**
+
+![Config Example](https://cdn.discordapp.com/attachments/1276361453049483347/1368350087901614221/image.png?ex=6817e6d3&is=68169553&hm=0e0ab8dd6001a0a621c0300559150ab0aa00f0a530b6db9bf1617e4072cda0b4&)
 
 ---
 
